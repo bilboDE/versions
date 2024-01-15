@@ -2,7 +2,7 @@
 
 {
   "bilbo_aduty": {
-    "version": "0.9.9",
-    "text": "Changelog: Added Webhooks, fixed issues\n"
+    "version": "1.0.0",
+    "text": "First Release Version >> Changelog: Added Webhooks, fixed issues\n"
   },
 }
