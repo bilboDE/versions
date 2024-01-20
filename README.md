@@ -6,7 +6,7 @@
     "text": "First Release Version >> Changelog: Added Webhooks, fixed issues\n"
   },
     "bilbo_tracker": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "text": ""
   },
 }
