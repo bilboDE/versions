@@ -2,8 +2,8 @@
 
 {
   "bilbo_aduty": {
-    "version": "1.0.0",
-    "text": "First Release Version >> Changelog: Added Webhooks, fixed issues\n"
+    "version": "1.0.1",
+    "text": "Enjoy ^^ >> Changelog: Nametags, next Update is GiveVehicle...\n"
   },
     "bilbo_tracker": {
     "version": "1.0.1",
