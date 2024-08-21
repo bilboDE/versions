@@ -17,4 +17,8 @@
     "version": "1.0.1",
     "text": ""
   },
+  "rv_givevehicle": {
+    "version": "1.0",
+    "text": "Enjoy >> Have fun."
+  }
 }
